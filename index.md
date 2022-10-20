@@ -1,3 +1,5 @@
+# Documentation of Human Rights Violations in Myanmar Using Remote Sensing - A Case Study of Detecting Burning Villages
+
 # Introduction
 
 The international human rights community is increasingly using remote sensing to monitor regions where populations are at risk of suffering from human rights violations. The objective of this study is to document human rights violations in Myanmar focused on the detection of burning villages with the use of medium and high resolution satellite data.
