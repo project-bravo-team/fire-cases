@@ -1,12 +1,3 @@
-## Introduction
-
-The international human rights community is increasingly using remote sensing to monitor regions where populations are at risk of suffering from human rights violations. The objective of this study is to document human rights violations in Myanmar focused on the detection of burning villages with the use of medium and high resolution satellite data.
-
-## Sampling
-
-For the current study, 33 samples (fire cases) were carefully selected to make sure that they are spatially and temporally well distributed. The following map shows the locations and distribution of the selected samples.
-
-## Preliminary Study
 
 ### Kinma village, Pauk Township, Magway Region (Sample - 001)
 
