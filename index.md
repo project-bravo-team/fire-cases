@@ -390,7 +390,7 @@ The preliminary study for Sample - 032 was conducted using a pair of freely avai
 
 Location - 22.86823082, 95.48937225
 
-[Source of Information](https://burmese.voanews.com/.../more-than.../6666283.html)
+[Source of Information](https://www.rfa.org/english/news/myanmar/slaughter-07202022165239.html)
 
 <iframe src="https://project-bravo.users.earthengine.app/view/burned-area-in-kyi-su-village-kantbalu-township" height="800" width="800"></iframe>
 
