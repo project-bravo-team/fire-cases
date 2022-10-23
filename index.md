@@ -6,11 +6,11 @@ The international human rights community is increasingly using remote sensing to
 
 ## Sampling
 
-For the current study, 33 samples (fire cases) were carefully selected to make sure that they are spatially and temporally well distributed. The following map shows the locations and distribution of the selected samples.
+For the current study, 34 samples (fire cases) were carefully selected to make sure that they are spatially and temporally well distributed. The following map shows the locations and distribution of the selected samples.
 
-<iframe src="fire-cases.html" height="800" width="800"></iframe>
+<iframe src="34_FireCases.html" height="800" width="800"></iframe>
 
-You can explore this map [as its own web page here](fire-cases.html).
+You can explore this map [as its own web page here](34_FireCases.html).
 
 ## Preliminary Study
 
