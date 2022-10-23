@@ -409,3 +409,15 @@ Location - 22.4208, 95.9537
 <iframe src="https://project-bravo.users.earthengine.app/view/burned-area-in-thit-seint-gyi-village-wetlet-township" height="800" width="800"></iframe>
 
 You can explore this map [as its original GEE app here](https://project-bravo.users.earthengine.app/view/burned-area-in-thit-seint-gyi-village-wetlet-township).
+
+### Ma Hti Thar and Nga Lone Tin Villages, Chaung-U Township, Sagaing Region (Sample - 034)
+
+The preliminary study for Sample - 034 was conducted using a pair of freely available medium-resolution Sentinel-2 satellite images which were acquired on 2022-10-12 (before fire image) and 2022-10-22 (after fire image). The location of this sample is Ma Hti Thar and Nga Lone Tin Villages, Chaung-U Township, Sagaing Region. The satellite data was processed on Google Earth Engine (GEE) platform. The follwing GEE app was resulted from this study. Move the swipe tool (with double arrow) left or right to visualize the changes before and after fire. The burned area can be seen as grey or dark grey color in the "after fire" image. 
+
+Location - 21.877315, 95.262317
+
+[Source of Information](https://www.facebook.com/BBCnewsBurmese/posts/pfbid0Z5sHiCg52Hmx3X1vmYWkHDswEL6CWhqF8zaC4EEby41kjrprZqvSS4HfhmycQsCul)
+
+<iframe src="https://project-bravo.users.earthengine.app/view/burned-area-in-ma-hti-thar-and-nga-lone-tin-chaung-u-township" height="800" width="800"></iframe>
+
+You can explore this map [as its original GEE app here](https://project-bravo.users.earthengine.app/view/burned-area-in-ma-hti-thar-and-nga-lone-tin-chaung-u-township).
